@@ -1,2 +1,2 @@
 # AI-Agent-demo
-个人应用的AIAGENT
+基于java的Spring-AI个人应用的AIAGENT
